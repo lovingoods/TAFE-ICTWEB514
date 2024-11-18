@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classes>
+  <class>
+    <name>Yoga Class</name>
+    <start_time>2024-11-20T07:30:00</start_time>
+    <end_time>2024-11-20T08:30:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>Pilates Class</name>
+    <start_time>2024-11-21T09:00:00</start_time>
+    <end_time>2024-11-21T10:00:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>HIIT Class</name>
+    <start_time>2024-11-22T18:00:00</start_time>
+    <end_time>2024-11-22T19:00:00</end_time>
+    <available>0</available>
+  </class>
+  <class>
+    <name>Spinning Class</name>
+    <start_time>2024-11-23T17:00:00</start_time>
+    <end_time>2024-11-23T18:00:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>Boxing Class</name>
+    <start_time>2024-11-24T11:00:00</start_time>
+    <end_time>2024-11-24T12:00:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>Zumba Class</name>
+    <start_time>2024-11-25T19:30:00</start_time>
+    <end_time>2024-11-25T20:30:00</end_time>
+    <available>0</available>
+  </class>
+  <class>
+    <name>Strength Training</name>
+    <start_time>2024-11-26T08:00:00</start_time>
+    <end_time>2024-11-26T09:00:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>Body Pump</name>
+    <start_time>2024-11-27T10:00:00</start_time>
+    <end_time>2024-11-27T11:00:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>CrossFit</name>
+    <start_time>2024-11-28T12:30:00</start_time>
+    <end_time>2024-11-28T13:30:00</end_time>
+    <available>0</available>
+  </class>
+  <class>
+    <name>Pilates Reformer</name>
+    <start_time>2024-11-29T15:00:00</start_time>
+    <end_time>2024-11-29T16:00:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>Barre Class</name>
+    <start_time>2024-11-30T16:30:00</start_time>
+    <end_time>2024-11-30T17:30:00</end_time>
+    <available>0</available>
+  </class>
+  <class>
+    <name>Bootcamp</name>
+    <start_time>2024-12-01T06:00:00</start_time>
+    <end_time>2024-12-01T07:00:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>TRX Suspension Training</name>
+    <start_time>2024-12-02T09:30:00</start_time>
+    <end_time>2024-12-02T10:30:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>Stretch</name>
+    <start_time>2024-12-03T12:00:00</start_time>
+    <end_time>2024-12-03T13:00:00</end_time>
+    <available>1</available>
+  </class>
+  <class>
+    <name>Aqua Aerobics</name>
+    <start_time>2024-12-04T14:00:00</start_time>
+    <end_time>2024-12-04T15:00:00</end_time>
+    <available>0</available>
+  </class>
+  <class>
+    <name>Dance Fitness</name>
+    <start_time>2024-12-05T18:30:00</start_time>
+    <end_time>2024-12-05T19:30:00</end_time>
+    <available>1</available>
+  </class>
+</classes>
